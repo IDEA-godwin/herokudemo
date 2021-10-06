@@ -29,7 +29,8 @@ import tech.jhipster.security.RandomUtil;
  */
 @Service
 @Transactional
-public class UserService {
+public class
+UserService {
 
     private final Logger log = LoggerFactory.getLogger(UserService.class);
 
